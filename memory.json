@@ -1,0 +1,65 @@
+{
+    "name": "Muba",
+    "history": [
+        {
+            "user": "my name is naaz",
+            "bot": "Nice to meet you, Naaz! I will remember your name."
+        },
+        {
+            "user": "what is my name",
+            "bot": "Your name is Naaz."
+        },
+        {
+            "user": "i have exams tomorrow",
+            "bot": "Revise regularly and practice active recall for stronger memory."
+        },
+        {
+            "user": "give me health tips",
+            "bot": "Get at least 7-8 hours of sleep daily."
+        },
+        {
+            "user": "motivate me",
+            "bot": "Stay consistent \u2014 success comes with discipline."
+        },
+        {
+            "user": "motivate me ",
+            "bot": "Believe in yourself. You are capable of amazing things!"
+        },
+        {
+            "user": "give few health tips for fever",
+            "bot": "Take short breaks during long study sessions."
+        },
+        {
+            "user": " few health tips for fever",
+            "bot": "Drink enough water and maintain a balanced diet."
+        },
+        {
+            "user": " few health tips for cold",
+            "bot": "Take short breaks during long study sessions."
+        },
+        {
+            "user": "what is photo",
+            "bot": "That's interesting! Tell me more."
+        },
+        {
+            "user": "what is photography",
+            "bot": "I understand. How can I help you further?"
+        },
+        {
+            "user": "what is machine learning",
+            "bot": "Make short notes while studying \u2014 it improves understanding."
+        },
+        {
+            "user": "give few study tips",
+            "bot": "Create a distraction-free study environment."
+        },
+        {
+            "user": "my name is muba",
+            "bot": "Nice to meet you, Muba! I will remember your name."
+        },
+        {
+            "user": "what is my name",
+            "bot": "Your name is Muba."
+        }
+    ]
+}
